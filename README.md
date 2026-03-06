@@ -30,12 +30,43 @@ i like building systems that actually do something, especially when they involve
 
 ## current focus
 
-right now i'm mainly working on **facility havoc** and other side projects related to games, systems, and tools.
+right now i'm mainly working on **facility havoc**.
 
-a lot of the stuff i make ends up somewhere between:
-- game project
-- technical experiment
-- "i was bored"
+facility havoc (aka **AFM-453: Facility Havoc**) is a round-based multiplayer game set inside a R&D research facility where containment has failed and everything is going wrong.
+
+players spawn into different roles inside the facility — security, scientists, prisoners, anomalies, and other things — and each group has different objectives during the round.
+
+it's inspired by facility-style multiplayer games, but the goal isn't to make a **SCP: Secret Laboratory clone**.  
+i'm building my own mechanics, and identity for the game so it stands on its own instead of just copying another game.
+
+## the loop
+
+each round starts with players scattered across the facility.
+
+from there the round evolves depending on what players decide to do:
+- escape the facility
+- secure the situation
+- help their team
+- hunt other players
+- or just cause chaos
+
+no two rounds are really supposed to play out the same way.
+
+## status
+
+currently in development.
+
+mostly in the modeling stage, i prefer good models over unfinished ones that dont fit the game very well
+
+## what's planned
+
+over time i want facility havoc to grow into more than just a single mode.
+
+things planned for the future include:
+- more role variety (in terms of inital roles and mid game roles)
+- stronger atmosphere and facility immersion
+- systems that make rounds more unpredictable
+- additional modes and ideas beyond the main loop of just the breach mode
 
 ## tools i use
 
