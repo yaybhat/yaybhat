@@ -1,14 +1,15 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif" alt="konata gif" width="260">
+  <img src="https://raw.githubusercontent.com/OhMyBat/OhMyBat/main/konata-lucky-star.gif" width="260">
 </p>
 
 <h1 align="center">hi hi!</h1>
 <p align="center">14 year old game developer and hard surface modeler</p>
 
----
 <p align="center">
-  <img src="https://github.com/OhMyBat/OhMyBat/blob/main/hyper-anime.gif?raw=true" alt="konata gif" width="260">
+  <img src="https://github.com/OhMyBat/OhMyBat/blob/main/hyper-anime.gif?raw=true" width="260">
 </p>
+
+---
 
 ## about me
 
