@@ -21,6 +21,10 @@ i also use linux, and sometimes i make tools and utilities for it when i want so
 
 i like building systems that actually do something, especially when they involve gameplay, tools, ui, or behind-the-scenes logic.
 
+<p align="center">
+  <img src="https://github.com/OhMyBat/OhMyBat/blob/main/unity-errors.gif" width="260">
+</p>
+
 ## current focus
 
 right now i'm mainly working on **facility havoc**.
